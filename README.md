@@ -1,4 +1,4 @@
-<h2>Tranquilo ?👋 Me Chamo Teodoro</h2>
+<h2>Tranquilo ?👋 Me Chamo Theodoro</h2>
 
 <p>-🤔Sou Tecnico em Informatica, mas atualmente estou bem interessado a me submergir na Programação...<br></p>
 <p>-💻Estou estudando as linguagens de Front-end que são CSS - HTML - JS... <br></p>
