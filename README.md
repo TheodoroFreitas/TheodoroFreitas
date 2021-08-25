@@ -28,6 +28,7 @@
   
   
   ![Snake animation](https://github.com/TheodoroFreitas/TheodoroFreitas/blob/output/github-contribution-grid-snake.svg)
-  
+      <img align="right" src="https://komarev.com/ghpvc/?username=TheodoroFreitas&color=green" alt="TheodoroFreitas"/>
+    
 
   
