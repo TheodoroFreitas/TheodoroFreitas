@@ -2,7 +2,7 @@
 
 <p>-🤔Sou Tecnico em Informatica, mas atualmente estou bem interessado a me submergir na Programação...<br></p>
 <p>-💻Estou estudando as linguagens de Front-end que são CSS - HTML - JS... <br></p>
-<p>-🚨Este "Repositorio" de identificação e somente uma forma de aprendizado para aprender a esta ferramenta que e GitHub <br></p>
+<p>-🚨Este "repositorie" de identificação e somente uma forma de aprendizado para aprender a esta ferramenta que e GitHub <br></p>
 <p>-🚨não se importe se houver alguns gif sem sentido 😉👍<br></p>
 <p>-🤩Sou novo neste mundo, então estou em constante aprendizado e mudanças👍<br></p>
 
