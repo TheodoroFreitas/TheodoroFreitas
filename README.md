@@ -1,10 +1,9 @@
-<h2>Tranquilo ?👋 Me Chamo Theodoro</h2>
+<h2>Good ?👋 My name is Theodoro</h2>
 
-<p>-🤔Sou Tecnico em Informatica, mas atualmente estou bem interessado a me submergir na Programação...<br></p>
-<p>-💻Estou estudando as linguagens de Front-end que são CSS - HTML - JS... <br></p>
-<p>-🚨Este "repositorie" de identificação e somente uma forma de aprendizado <br></p>
-<p>-🚨não se importe se houver alguns gif sem sentido 😉👍<br></p>
-<p>-🤩Sou novo neste mundo, então estou em constante aprendizado e mudanças👍<br></p>
+<p>-🤔I am a Computer Technician, currently I am very interested in diving into Programming...<br></p>
+<p>-💻I'm studying the front-end languages which are CSS - HTML - JS... <br></p>
+<p>-🚨This "repository" of identification is just a form of learning <br></p>
+<p>-🚨don't mind if there are some meaningless gifs😉👍<br></p>
 
 <div>
   <a href="https://github.com/TheodoroFreitas">
@@ -12,14 +11,15 @@
      <img align="right" alt="Rafa-yoda" src="https://images-ext-1.discordapp.net/external/qnpJERNHMOXxssorkidw1ckOyvJ8cPYwZt5yNxkDOSw/https/c.tenor.com/UZJd1pjj4NMAAAAM/surprised-pikachu.gif">
 </div>
 <div>  
-  <h2><i>Linguagens que estou Estudando!!</i>😉</h2>
+  <h2><i>
+languages I'm studying!!</i>😉</h2>
     
 <img align="center" alt="Teo-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Teo-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Teo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>   
-<h2>Plataformas diarias👌</h2>
-  <h5>obs: vai aumentar kkk</h5>
+<h2>daily platforms👌</h2>
+  <h5>Note: in Expanding </h5>
   <br>
   <div> 
   <img target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"/>
