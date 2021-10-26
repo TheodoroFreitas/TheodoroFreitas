@@ -1,9 +1,11 @@
-<h2>Good ?👋 My name is Theodoro</h2>
+<h2>Olá👋 Meu nome é Theodoro</h2>
 <img src="learning.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Programação">
-<p>-🤔I am a Computer Technician, currently I am very interested in diving into Programming...<br></p>
-<p>-💻I'm studying the front-end languages which are CSS - HTML - JS... <br></p>
-<p>-🚨This "repository" of identification is just a form of learning <br></p>
-<p>-🚨don't mind if there are some meaningless gifs😉👍<br></p>
+<br>
+<p>-🤔Sou Técnico em informatica com conhecimentos tanto na area de suporte e infra, e tambem na area de programação  <br></p>
+<p>-💻Estou bastante empolgado no meu desenvolvimento na área de programação<br></p>
+<p>-🖱Linguagem que possuo muitos estudos são front-end - HTML5 / CSS3 / JavaScript | Back-End - Java....<br></p>
+<p>-🚨Como forma de demonstrativo de resultado existem repositorios disponiveis de projetos construidos usando as ferramentas Pré-escritas a cima 👆<br></p>
+<p>-👨‍🎓Buscando experiencias Profissionais para assim colocar em pratica essa paixão sobre programação.<br></p>
 
 <div>
   <a href="https://github.com/TheodoroFreitas">
@@ -11,14 +13,16 @@
 </div>
 <div>  
   <h2><i>
-languages I'm studying!!</i>😉</h2>
+Linguagens de pragramações que já usei</i>😉</h2>
     
 <img align="center" alt="Teo-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Teo-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Teo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Teo-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Teo-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"">
  </div>   
-<h2>daily platforms👌</h2>
-  <h5>Note: in Expanding </h5>
+<h2>daily plataformas de uso👌</h2>
+  <h5>Note: em expansão </h5>
   <br>
   <div> 
   <img target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"/>
