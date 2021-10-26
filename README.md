@@ -1,5 +1,5 @@
 <h2>Good ?👋 My name is Theodoro</h2>
-<img src="learning.jpg" min-width="300px" max-width="300px" width="300px" align="right" alt="Programação">
+<img src="learning.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Programação">
 <p>-🤔I am a Computer Technician, currently I am very interested in diving into Programming...<br></p>
 <p>-💻I'm studying the front-end languages which are CSS - HTML - JS... <br></p>
 <p>-🚨This "repository" of identification is just a form of learning <br></p>
