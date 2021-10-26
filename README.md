@@ -8,7 +8,6 @@
 <div>
   <a href="https://github.com/TheodoroFreitas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheodoroFreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-     <img align="right" alt="Rafa-yoda" src="https://images-ext-1.discordapp.net/external/qnpJERNHMOXxssorkidw1ckOyvJ8cPYwZt5yNxkDOSw/https/c.tenor.com/UZJd1pjj4NMAAAAM/surprised-pikachu.gif">
 </div>
 <div>  
   <h2><i>
